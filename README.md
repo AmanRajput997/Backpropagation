@@ -3,9 +3,13 @@
 This repository contains a collection of Jupyter notebooks that demonstrate the implementation of the backpropagation algorithm for both classification and regression tasks. The notebooks provide a clear comparison between building neural networks from scratch and using a high-level library like Keras.
 
 Project Overview : 
+
+
 The core of this project is to showcase the fundamental mechanics of backpropagation. By walking through both manual and Keras-based implementations, you'll gain a deeper understanding of how neural networks learn.
 
 Key Concepts Illustrated:
+
+
 • Forward Propagation: The process of input data moving through the network to generate an output.
 
 • Loss Calculation: Quantifying the difference between the model's prediction and the actual target value.
@@ -15,6 +19,8 @@ Key Concepts Illustrated:
 • Parameter Updates: Adjusting the weights and biases to minimize the loss.
 
 Notebooks : 
+
+
 This repository includes the following notebooks:
 
 1. Backpropagation for Classification (Manual)
@@ -38,6 +44,8 @@ This repository includes the following notebooks:
 • Description: This notebook showcases the Keras implementation of the regression model, allowing for a direct comparison with the manual approach and demonstrating the power of Keras for rapid prototyping.
 
 How to Use
+
+
 To run these notebooks, you'll need to have Python and the following libraries installed:
 
 • Jupyter Notebook
