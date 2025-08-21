@@ -24,22 +24,22 @@ Notebooks :
 This repository includes the following notebooks:
 
 1. Backpropagation for Classification (Manual)
-• File: Backpropagation_Classification_Manually.ipynb
+• File: [Backpropagation_Classification_Manually.ipynb](https://github.com/AmanRajput997/Backpropagation/blob/main/Backpropagation_Classification_Manually.ipynb)
 
 • Description: This notebook implements a simple neural network from scratch to solve a binary classification problem. It details the step-by-step process of forward propagation, loss calculation (binary cross-entropy), and backpropagation to update the model's weights and biases.
 
 2. Backpropagation for Classification (Keras)
-• File: Backpropagation_Classification_by_keras.ipynb
+• File: [Backpropagation_Classification_by_keras.ipynb](https://github.com/AmanRajput997/Backpropagation/blob/main/Backpropagation_Classification_by_keras.ipynb)
 
 • Description: This notebook demonstrates how to build and train the same classification model using the Keras library. It highlights the simplicity and efficiency of using a high-level API for building neural networks.
 
 3. Backpropagation for Regression (Manual)
-• File: Backpropagation_Regression_Manually.ipynb
+• File: [Backpropagation_Regression_Manually.ipynb](https://github.com/AmanRajput997/Backpropagation/blob/main/Backpropagation_Regression_Manually.ipynb)
 
 • Description: This notebook provides a from-scratch implementation of a neural network for a regression task. It covers the nuances of adapting the backpropagation algorithm for continuous target variables, using mean squared error as the loss function.
 
 4. Backpropagation for Regression (Keras)
-• File: Backpropagation_Regression_by__Keras.ipynb
+• File: [Backpropagation_Regression_by__Keras.ipynb](https://github.com/AmanRajput997/Backpropagation/blob/main/Backpropagation_Regression_by__Keras.ipynb)
 
 • Description: This notebook showcases the Keras implementation of the regression model, allowing for a direct comparison with the manual approach and demonstrating the power of Keras for rapid prototyping.
 
