@@ -44,7 +44,7 @@ This repository includes the following notebooks:
 • Description: This notebook showcases the Keras implementation of the regression model, allowing for a direct comparison with the manual approach and demonstrating the power of Keras for rapid prototyping.
 
 5. Memoization Demo
-• File:Memoization_Demo.ipynb
+• File:[Memoization_Demo](https://github.com/AmanRajput997/Backpropagation/blob/main/Memoization_Demo.ipynb)
 
 • Description: This notebook explains the concept of memoization, a key optimization technique that makes backpropagation computationally efficient. It illustrates how storing and reusing intermediate calculations (a form of memoization) is fundamental to the backpropagation algorithm.
    
